@@ -30,6 +30,6 @@
     "jsonwebtoken": "^9.0.1"
   },
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@klinton-org:registry": "https://npm.pkg.github.com"
   }
 }
