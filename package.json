@@ -1,6 +1,6 @@
 {
   "name": "@klinton-org/ticketing-common",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "common package for ticket microservice system in https://github.com/KlintonICT/ticketing",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
